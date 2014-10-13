@@ -1,5 +1,2 @@
-foobar
-foobar
-======
-<script>alert(1)</script>
-">&lt;img src=x onerror=prompt(1)>
+{{toString.constructor.prototype.toString=toString.constructor.prototype.call;
+    ["a","alert(1)"].sort(toString.constructor)}}
